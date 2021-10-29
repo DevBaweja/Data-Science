@@ -1,0 +1,6 @@
+# Random Walk
+
+NumPy - Vector, Matrix, and High Level mathematical functions
+SciPy - Mathematical classes and functions useful to scientists
+MatPlotLib - Object Oriented API for plotting
+PyLab - Library to provide Matlab functionality

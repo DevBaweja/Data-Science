@@ -1,0 +1,23 @@
+Stochastic Thinking
+Ongoing process where next state depends upon previous state and randomness
+
+God doesn't play dice
+
+Probability of independent events occuring all at same time is equal to product of probability of each event occuring
+
+Two events are independent if outcome of one event has no influence on outcome of other
+
+Lots of trials to get good estimate of the frequency of occurrence of rare events
+
+Sample probability are different from population probability
+
+# Need of simulation
+
+To simulate non solvable problems or exponential hard problems or mathematically intractable
+Adjusting simulation is easy ie to bias probabilities
+As events may not be equally likely to occur
+
+# Random Walk
+Stock Market, Modeling diffusion processes
+Brownian Motion is random walk
+Drunkard Walk

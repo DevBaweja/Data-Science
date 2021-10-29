@@ -1,0 +1,36 @@
+Computational Models
+Using computer computation power to understand world
+
+Optimization Models
+Statistics Models
+Simulation Models
+
+# Optimization Models
+Minimize or Maximize objectuve functions given constraints
+
+# Knapsack Problem
+Each item is represented by value and weight
+Knapsack Weight w
+Vector of length n representing every item
+Vector of 0 or 1 of length n represented as V
+1 representing item was taken
+0 representing item was not taken
+
+Find that sequence of 0s and 1s that maximize
+Sum of i from 0 to n-1 : V[i]*I[i].value
+subject to constraints
+Sum of i from 0 to n-1 : V[i]*I[i].weight <= w
+
+0/1 Knapsack
+Fractional Knapsack
+
+# Brute Force
+Enumerate all possible combinations of sequence(Power Set)
+Remove that sequence that total weight exceeds the w knapsack capacity
+Remaining sequence, choose sequence with maximize value
+
+# Greedy Algorithm
+While there is space in knapsack capacity
+Pick best available item that can be fitted in remaining space
+
+Might get stuck at local optimal rather than global optimal

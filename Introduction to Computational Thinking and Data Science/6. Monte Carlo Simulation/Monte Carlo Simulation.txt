@@ -1,0 +1,14 @@
+Monte Carlo Simulation
+Estimating value of unknwon quantity using inferential statistics
+
+Inferential Statistics
+Population and Random Sample
+
+Confidence depends upon
+Size of sample
+Variance of sample
+
+As variance increases, larger size of sample is needed to predict that behaviour 
+
+Law of Large Number
+Repeating independent events having same probability p of a particular outcome in each test, the chance that the fraction of times that outcome occurs differs from p converges to zero as the number of trials goes to infinity

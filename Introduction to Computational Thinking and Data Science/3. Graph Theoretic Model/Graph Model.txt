@@ -1,0 +1,17 @@
+# Graph
+Node Edges
+Undirected or Directed Graph
+Unweighted or Weighted Graph
+Acyclic or Cyclic Graph
+Storing or Buildng Graph
+Adjacent Matrix or Adjacent List
+Shortest Path
+Clustering
+
+Ex - Computer, Transport, Financial, Social Networks, Routing, Molecule, Hierarchy
+
+Walk exactly once edge Euler Walk
+Finding path between nodes
+Finding minimum cost path
+Partitioning of graph
+Min Cut or Min Flow Problems

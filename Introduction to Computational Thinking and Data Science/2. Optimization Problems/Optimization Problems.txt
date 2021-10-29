@@ -1,0 +1,23 @@
+Optimization Problem
+
+Greedy has advantage of easy to implement and efficient implementation
+Greedy has disadvantage of begin trapped to local optimal and approximation
+
+# Search Tree
+Generate Search Tree where each node has a decision to make to choose or not choose that item
+If item is chosen then remaining weight of knapsack will decrease and collected value will increase
+
+# Computational Complexity
+Time is based on all the leaves node to be generated
+Each item have two choices so 2 to the power of number of items
+Level of the tree is number of items
+
+Node at ith level is 2^i
+Total number of nodes is
+Sum of 1 to n: 2^i = 2^(n+1)
+Optimization don't explore parts of tree that violate constraints of weight
+
+Dynamic Programming
+Optimal Structure
+Overlapping Subproblem
+
